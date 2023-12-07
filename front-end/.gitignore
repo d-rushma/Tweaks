@@ -1,5 +1,4 @@
 node_modules
 dist
-front-end\node_modules
-front-end\package-lock.json
-front-end\package.json
+package-lock.json
+package.json
